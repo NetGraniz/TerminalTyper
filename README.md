@@ -2,7 +2,7 @@
 
 A lightweight AutoHotkey v2 utility that types prepared text into a browser-based terminal or another active Windows application, one keystroke at a time. Useful when a remote console does not support normal clipboard paste.
 
-![TerminalTyper application screenshot](TerminalTyper_screenshot.png)
+![TerminalTyper](TerminalTyper.png)
 
 
 
